@@ -82,8 +82,6 @@
 	  <br>
 	  <input class="btn-success" type="Submit"/>
 	  <input  class="btn-danger"type="Reset"/>
-	  
-	  
 	  </form>
    </body>
 </html>
